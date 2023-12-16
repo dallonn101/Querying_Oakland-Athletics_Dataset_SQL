@@ -8,6 +8,7 @@ Given a database called moneyball.db—one that contains information on players,
 Round the salary to two decimal places and call the column “average salary”. Your query should return a table with two columns, one for year and one for average salary.
 
 2.sql Your general manager (i.e., the person who makes decisions about player contracts) asks you whether the team should trade a current player for Cal Ripken Jr., a star player who’s likely nearing his retirement. In 2.sql, write a SQL query to find Cal Ripken Jr.’s salary history. Sort by year in descending order. Your query should return a table with two columns, one for year and one for salary.
+
 3.sql Your team is going to need a great home run hitter. Ken Griffey Jr., a long-time Silver Slugger and Gold Glove award winner, might be a good prospect. In 3.sql, write a SQL query to find Ken Griffey Jr.’s home run history. Sort by year in descending order.
 Your query should return a table with two columns, one for year and one for home runs.
 
